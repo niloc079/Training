@@ -10,5 +10,3 @@ https://www.cloudsma.com/2024/03/azure-service-health-workbook/
 ## Reliability Workbook
 https://github.com/Azure/reliability-workbook?utm_source=pocket_reader
 This workbook focus on the Reliability pillar of the Azure Well-Architected Framework and provides insights into the reliability aspects deployed in Azure subscriptions.
-
-
