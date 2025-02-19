@@ -12,3 +12,5 @@ This is a guide to create an AKS Automatic cluster with Azure Bicep.
 https://github.com/nicolgit/the-aks-playground?utm_source=pocket_reader
 This repo contains a preconfigured Azure Kubernetes Service cluster embedded inside an hub-and-spoke network topology, aligned to the Azure enterprise-scale landing zone reference architecture, useful for testing and studying network configurations in a controlled, repeatable environment.
 
+## AKS Labs
+https://azure-samples.github.io/aks-labs/
