@@ -14,4 +14,3 @@ https://azure.github.io/Azure-Landing-Zones/
 
 ## Azure Verified Modules for Platform Landing Zones (ALZ)
 https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/landing-zone/deploy-landing-zones-with-terraform
-

@@ -60,8 +60,15 @@ Combined resources and options to improve yourself around cloud and devops
 [DP203](/DP203.md) \
 [DP700](/DP700.md)
 
+### Microsoft Security, Compliance, and Identity
+[SC900](/SC900.md) \
+[SC200](/SC200.md)
+
 ### Azure Policy
 [Azure Policy](/Azure_Policy.md)
+
+### Operations
+[Azure Operations](/AzureOps.md)
 
 ### FinOps
 [FinOps](/FinOps.md)
@@ -77,5 +84,5 @@ Combined resources and options to improve yourself around cloud and devops
 [AWS](/AWS.md)
 
 ### Uncategorized
-[Threat Modeling](/_Threat%20Modeling.md) \
+[Threat Modeling](/_Threat_Modeling.md) \
 [Level_400_Microsoft_Security_Ninja_Trainings](/_Level_400_Microsoft_Security_Ninja_Trainings.md_)
