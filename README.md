@@ -64,6 +64,9 @@ Combined resources and options to improve yourself around cloud and devops
 [SC900](/SC900.md) \
 [SC200](/SC200.md)
 
+### AVS
+[AVS](/Azure_AVS.md)
+
 ### Azure Policy
 [Azure Policy](/Azure_Policy.md)
 
@@ -72,6 +75,7 @@ Combined resources and options to improve yourself around cloud and devops
 
 ### FinOps
 [FinOps](/FinOps.md)
+[Azure FinOps](/Azure_Finops.md)
 
 ### Tools
 [Azure Tools](/Azure_Tools.md)

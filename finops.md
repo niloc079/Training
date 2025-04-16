@@ -1,14 +1,20 @@
 # FinOps Financial Operations DevOps
 
-## Azure Cost CLI
-https://github.com/mivano/azure-cost-cli \
-This is a simple command line tool to get the cost of your Azure subscription. It uses the Azure Cost Management API to get the cost and output the results to the console, text, csv, markdown or JSON. E.g. so it can be used in a workflow to get the cost of your subscription and use it in subsequent steps.
-
-## Microsoft FinOps toolkit
-https://microsoft.github.io/finops-toolkit/ \
-The Microsoft FinOps toolkit is an open-source collection of learning resources and customizable tools to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud. This includes:
+## FinOps Foundation
+Guide to Cloud Service Provider Tools and Terminology   https://www.finops.org/wg/multi-cloud-tools-and-terminology/ \
+How to Optimize Cloud Usage https://www.finops.org/wg/how-to-optimize-cloud-usage/ \
 
 ## OpenCost
 https://www.opencost.io/docs/ \
 OpenCost is a vendor-neutral open source project for measuring and allocating cloud infrastructure and container costs. It’s built for Kubernetes cost monitoring to power real-time cost monitoring, showback, and chargeback.
 
+## Tooling, IaC
+Infracost   https://www.infracost.io/ \
+Terraform Cost Estimation   https://developer.hashicorp.com/terraform/cloud-docs/cost-estimation \
+
+## Tooling, Non-Microsoft/Azure
+Finout  https://www.finout.io/ \
+Cloudzero   https://www.cloudzero.com/ \
+Cloudcheckr https://spot.io/product/cloudcheckr/ \
+Cloudability    https://www.apptio.com/products/cloudability/ \
+Serverless360   https://www.serverless360.com/ \
