@@ -1,7 +1,10 @@
 # Technical Training
 
-## Intro
+## Purpose
 Combined resources and options to improve yourself around cloud and devops
+
+## Training Platforms
+[Training Platforms](/Training_Platforms.md)
 
 ## Certifications and Training
 [Microsoft Certification Map](/Microsoft_Certification_Map.md) \
