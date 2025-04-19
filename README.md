@@ -55,8 +55,10 @@ Combined resources and options to improve yourself around cloud and devops
 
 ### CI/CD, Automation
 [DevOps](/DevOps.md) \
+[DevOps and AI](/DevOps_AI.md)
 [Github](/Github.md) \
 [Azure DevOps](/AzureOps.md)
+[Jenkins](/Jenkins.md)
 
 ### Data Platform
 [DP900](/DP900.md) \

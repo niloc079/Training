@@ -6,6 +6,9 @@ https://github.com/microsoft/azure-genai-design-patterns?utm_source=pocket_reade
 ## AI For Good Lab
 https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
 
+## Google Prompt Engineering
+https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view?pli=1
+
 # Nvidia
 
 ## AI for All: From Basics to GenAI Practice
