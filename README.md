@@ -10,88 +10,74 @@ Combined resources and options to improve yourself around cloud and devops
 [Microsoft Certification Map](/Microsoft_Certification_Map.md) \
 [Microsoft Training](/MicrosoftTraining.md)
 
-### CAF, WAF, ALZ
-[Azure Cloud Adoption Framework](/Azure_CAF.md) \
-[Azure Well-Architected Framework](/Azure_WAF.md) \
-[Azure Landing Zone](/Azure_Landing_Zone.md)
-
 ## AI
 [General AI Training](/AI.md) \
-[Microsoft AI 900](/Azure_AI900.md) \
-[Microsoft AI 102](/Azure_AI102.md)
+[Microsoft AI 900](/Azure/AI900.md) \
+[Microsoft AI 102](/Azure/AI102.md)
 
-### AZ 900
-[AZ900](/Azure_AZ900.md)
+## Azure
+[Azure Cloud Adoption Framework](/Azure/CAF.md) \
+[Azure Well-Architected Framework](/Azure/WAF.md) \
+[Azure Landing Zone](/Azure/Azure_Landing_Zone.md)
 
-### AZ 104 Azure Administrator
-[AZ104](/Azure_AZ104.md)
+[AZ900](/Azure_AZ900.md) \
+[AZ104 Azure Administrator](/Azure_AZ104.md) \
+[AZ305 Azure Cloud Architect](/Azure/AZ305.md) \
+[AZ700 Azure Network Engineer](/Azure/AZ700.md) \
+[AZ400 Azure DevOps Expert](/Azure/AZ400.md) \
+[AZ204](/Azure/AZ204.md)
 
-### AZ 305 Cloud Architect
-[AZ305](/Azure_AZ305.md)
+[AKS](/Azure/AKS.md) \
+[Azure Policy](/Azure/Azure_Policy.md) \
+[AVS](/Azure/AVS.md) \
+[Azure Operations](/Azure/AzureOps.md)
+[Azure FinOps](/Azure/Azure_Finops.md)
+[Azure Tools](/Azure/Azure_Tools.md)
 
-### AZ 700 Network
-[AZ700](/Azure_AZ700.md)
+## GCP
+[GCP](/GCP/GCP.md)
 
-### AZ 400 Azure DevOps
-[AZ400](/Azure_AZ400.md)
+## AWS
+[AWS](/AWS/AWS.md)
 
-### AZ 140
-[AZ204](/Azure_AZ140.md)
+## DevOps
+[DevOps](/DevOps/DevOps.md) \
+[DevOps and AI](//DevOpsDevOps_AI.md) \
+[Github](//DevOpsGithub.md) \
+[Azure DevOps](/DevOps/AzureOps.md) \
+[Jenkins](/DevOps/Jenkins.md)
 
-### AZ 204
-[AZ204](/Azure_AZ204.md)
+[Containers](/Devops/Containers.md) \
+[Kubernetes](/DevOps/Kubernetes.md)
 
-### IaC
-[Hashicorp Terraform](/Hashicorp_Terraform.md) \
-[Bicep](/Bicep.md) \
-[Azure Verified Modules](/Azure_Verified_Modules.md)
+[Hashicorp Terraform](/DevOps/Hashicorp_Terraform.md) \
+[Bicep](/DevOps/Bicep.md) \
+[Azure Verified Modules](/DevOps/Azure_Verified_Modules.md)
 
-### Kubernetes
-[AKS](/Azure_AKS.md) \
-[Kubernetes](/Kubernetes.md)
+[Prometheus](/DevOps/Prometheus.md)
 
-### Solution Architecture
-[Solution Architecture](/SolutionArchitecture.md)
+## Data
+[DP900](/Data/DP900.md) \
+[DP203](/Data/DP203.md) \
+[DP700](/Data/DP700.md)
 
-### CI/CD, Automation
-[DevOps](/DevOps.md) \
-[DevOps and AI](/DevOps_AI.md)
-[Github](/Github.md) \
-[Azure DevOps](/AzureOps.md)
-[Jenkins](/Jenkins.md)
-
-### Data Platform
-[DP900](/DP900.md) \
-[DP203](/DP203.md) \
-[DP700](/DP700.md)
-
-### Microsoft Security, Compliance, and Identity
+## Security
+[Vulnerabilities](/Security/Vulnerabilities.md) \
 [SC900](/SC900.md) \
 [SC200](/SC200.md)
 
-### AVS
-[AVS](/Azure_AVS.md)
+## AI
+[AI](/AI/AI.md)
 
-### Azure Policy
-[Azure Policy](/Azure_Policy.md)
+## Solution Architecture
+[Solution Architecture](/SolutionArchitecture.md)
 
-### Operations
-[Azure Operations](/AzureOps.md)
-
-### FinOps
+## FinOps
 [FinOps](/FinOps.md)
-[Azure FinOps](/Azure_Finops.md)
 
-### Tools
-[Azure Tools](/Azure_Tools.md)
+## Tools
 [Diagrams](/Diagrams.md)
 
-### GCP
-[GCP](/GCP.md)
-
-### AWS
-[AWS](/AWS.md)
-
-### Uncategorized
+## Uncategorized
 [Threat Modeling](/_Threat_Modeling.md) \
 [Level_400_Microsoft_Security_Ninja_Trainings](/_Level_400_Microsoft_Security_Ninja_Trainings.md_)

@@ -27,3 +27,6 @@ Azure Verified Modules (AVM) is an initiative to consolidate and set the standar
 ## Terraformer ChatGPT
 https://chatgpt.com/g/g-2FOphKQ6G-azure-terraformer
 
+## Awesome Terraform
+https://github.com/shuaibiyy/awesome-tf \
+Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
