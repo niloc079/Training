@@ -41,8 +41,10 @@ Combined resources and options to improve yourself around cloud and devops
 [AWS](/AWS/AWS.md)
 
 ## DevOps
+[AI DevOps](/DevOps/AI_DevOps.md) \
+[AI DevOps Tools](/DevOps/AI_DevOps_Tools.md)
+
 [DevOps](/DevOps/DevOps.md) \
-[DevOps and AI](//DevOpsDevOps_AI.md) \
 [Github](//DevOpsGithub.md) \
 [Azure DevOps](/DevOps/AzureOps.md) \
 [Jenkins](/DevOps/Jenkins.md)
@@ -65,6 +67,10 @@ Combined resources and options to improve yourself around cloud and devops
 [Vulnerabilities](/Security/Vulnerabilities.md) \
 [SC900](/SC900.md) \
 [SC200](/SC200.md)
+
+## Network
+[SD-WAN](/Network/SDWAN.md) \
+[Terraform](/Network/Terraform.md)
 
 ## AI
 [AI](/AI/AI.md)
