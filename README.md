@@ -43,19 +43,14 @@ Combined resources and options to improve yourself around cloud and devops
 ## DevOps
 [AI DevOps](/DevOps/AI_DevOps.md) \
 [AI DevOps Tools](/DevOps/AI_DevOps_Tools.md)
-
+[Azure Verified Modules](/DevOps/Azure_Verified_Modules.md) \
+[Bicep](/DevOps/Bicep.md) \
+[Containers](/Devops/Containers.md) \
 [DevOps](/DevOps/DevOps.md) \
 [Github](//DevOpsGithub.md) \
-[Azure DevOps](/DevOps/AzureOps.md) \
-[Jenkins](/DevOps/Jenkins.md)
-
-[Containers](/Devops/Containers.md) \
-[Kubernetes](/DevOps/Kubernetes.md)
-
 [Hashicorp Terraform](/DevOps/Hashicorp_Terraform.md) \
-[Bicep](/DevOps/Bicep.md) \
-[Azure Verified Modules](/DevOps/Azure_Verified_Modules.md)
-
+[Jenkins](/DevOps/Jenkins.md) \
+[Kubernetes](/DevOps/Kubernetes.md) \
 [Prometheus](/DevOps/Prometheus.md)
 
 ## Data
@@ -64,9 +59,16 @@ Combined resources and options to improve yourself around cloud and devops
 [DP700](/Data/DP700.md)
 
 ## Security
-[Vulnerabilities](/Security/Vulnerabilities.md) \
+[Container Security](/Security/Container_Security.md) \
+[DAST](/Security/DAST.md) \
+[IaC Scanning](/Security/IaC_Scanning.md) \
+[SAST](/Security/SAST.md) \
 [SC900](/SC900.md) \
-[SC200](/SC200.md)
+[SC200](/SC200.md) \
+[SCA](/Security/SCA.md) \
+[Secrets Management](/Security/Secrets_Management.md) \
+[Vulnerabilities](/Security/Vulnerabilities.md) \
+[Threat Modeling](/Security/Threat_Modeling.md)
 
 ## Network
 [SD-WAN](/Network/SDWAN.md) \
@@ -76,7 +78,7 @@ Combined resources and options to improve yourself around cloud and devops
 [AI](/AI/AI.md)
 
 ## Solution Architecture
-[Solution Architecture](/SolutionArchitecture.md)
+[Solution Architecture](/SolutionArchitecture/SolutionArchitecture.md)
 
 ## FinOps
 [FinOps](/FinOps.md)
@@ -84,6 +86,3 @@ Combined resources and options to improve yourself around cloud and devops
 ## Tools
 [Diagrams](/Diagrams.md)
 
-## Uncategorized
-[Threat Modeling](/_Threat_Modeling.md) \
-[Level_400_Microsoft_Security_Ninja_Trainings](/_Level_400_Microsoft_Security_Ninja_Trainings.md_)
