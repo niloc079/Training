@@ -1,0 +1,77 @@
+<svg viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="1000" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2c3e50">OSI Model - The 7 Layers</text>
+  
+  <!-- Layer 7: Application -->
+  <g transform="translate(100, 100)">
+    <rect x="0" y="0" width="600" height="100" fill="#e74c3c" rx="10" ry="10" stroke="#c0392b" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#c0392b" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 7: Application</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">HTTP, FTP, SMTP, DNS, SSH</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Web browsers, Email clients, File transfer programs</text>
+  </g>
+  
+  <!-- Layer 6: Presentation -->
+  <g transform="translate(100, 210)">
+    <rect x="0" y="0" width="600" height="100" fill="#e67e22" rx="10" ry="10" stroke="#d35400" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#d35400" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 6: Presentation</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">SSL/TLS, JPEG, GIF, MPEG, ASCII</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Data formatting, encryption, compression</text>
+  </g>
+  
+  <!-- Layer 5: Session -->
+  <g transform="translate(100, 320)">
+    <rect x="0" y="0" width="600" height="100" fill="#f39c12" rx="10" ry="10" stroke="#d35400" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#d35400" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 5: Session</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">NetBIOS, RPC, SCP, SQL</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Session management, authentication, authorization</text>
+  </g>
+  
+  <!-- Layer 4: Transport -->
+  <g transform="translate(100, 430)">
+    <rect x="0" y="0" width="600" height="100" fill="#27ae60" rx="10" ry="10" stroke="#1e8449" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#1e8449" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 4: Transport</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">TCP, UDP</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">End-to-end connections, flow control, error detection</text>
+  </g>
+  
+  <!-- Layer 3: Network -->
+  <g transform="translate(100, 540)">
+    <rect x="0" y="0" width="600" height="100" fill="#2980b9" rx="10" ry="10" stroke="#2471a3" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#2471a3" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 3: Network</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">IP, ICMP, IPSec, IGMP</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Routing, logical addressing, path determination</text>
+  </g>
+  
+  <!-- Layer 2: Data Link -->
+  <g transform="translate(100, 650)">
+    <rect x="0" y="0" width="600" height="100" fill="#8e44ad" rx="10" ry="10" stroke="#6c3483" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#6c3483" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 2: Data Link</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">Ethernet, PPP, Frame Relay, VLAN</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">MAC addressing, frame synchronization, error detection</text>
+  </g>
+  
+  <!-- Layer 1: Physical -->
+  <g transform="translate(100, 760)">
+    <rect x="0" y="0" width="600" height="100" fill="#34495e" rx="10" ry="10" stroke="#2c3e50" stroke-width="3"/>
+    <rect x="0" y="80" width="600" height="20" fill="#2c3e50" rx="5" ry="5"/>
+    <text x="20" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Layer 1: Physical</text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="16" fill="white">Ethernet cables, RJ45, Wi-Fi, Fiber optics</text>
+    <text x="20" y="95" font-family="Arial, sans-serif" font-size="14" fill="#ecf0f1">Physical transmission of raw bits, hardware specifications</text>
+  </g>
+  
+  <!-- Data encapsulation indication -->
+  <text x="100" y="900" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Data Encapsulation:</text>
+  <text x="100" y="925" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Each layer adds its own header as data moves down the stack</text>
+  
+  <text x="100" y="950" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">Key Principles:</text>
+  <text x="100" y="975" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">Each layer provides services to the layer above it • Data is encapsulated at each layer</text>
+</svg>
