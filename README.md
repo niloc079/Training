@@ -11,9 +11,12 @@ Combined resources and options to improve yourself around cloud and devops
 [Microsoft Training](/MicrosoftTraining.md)
 
 ## AI
-[General AI Training](/AI.md) \
+[General AI Training](AI/AI.md) \
 [Microsoft AI 900](/Azure/AI900.md) \
 [Microsoft AI 102](/Azure/AI102.md)
+
+## AWS
+[AWS](/AWS/AWS.md)
 
 ## Azure
 [Azure Cloud Adoption Framework](/Azure/CAF.md) \
@@ -34,29 +37,39 @@ Combined resources and options to improve yourself around cloud and devops
 [Azure FinOps](/Azure/Azure_Finops.md)
 [Azure Tools](/Azure/Azure_Tools.md)
 
-## GCP
-[GCP](/GCP/GCP.md)
-
-## AWS
-[AWS](/AWS/AWS.md)
-
-## DevOps
-[AI DevOps](/DevOps/AI_DevOps.md) \
-[AI DevOps Tools](/DevOps/AI_DevOps_Tools.md)
-[Azure Verified Modules](/DevOps/Azure_Verified_Modules.md) \
-[Bicep](/DevOps/Bicep.md) \
-[Containers](/Devops/Containers.md) \
-[DevOps](/DevOps/DevOps.md) \
-[Github](//DevOpsGithub.md) \
-[Hashicorp Terraform](/DevOps/Hashicorp_Terraform.md) \
-[Jenkins](/DevOps/Jenkins.md) \
-[Kubernetes](/DevOps/Kubernetes.md) \
-[Prometheus](/DevOps/Prometheus.md)
+## Containers
+[Containers](/Containers/Containers.md) \
+[Kubernetes](/Containers/Kubernetes.md)
 
 ## Data
 [DP900](/Data/DP900.md) \
 [DP203](/Data/DP203.md) \
 [DP700](/Data/DP700.md)
+
+## DevOps
+[AI DevOps](/DevOps/AI_DevOps.md) \
+[AI DevOps Tools](/DevOps/AI_DevOps_Tools.md)
+[DevOps](/DevOps/DevOps.md) \
+[Github](//DevOpsGithub.md) \
+[Jenkins](/DevOps/Jenkins.md) \
+
+## FinOps
+[FinOps](/FinOps.md)
+
+## GCP
+[GCP](/GCP/GCP.md)
+
+## IaC
+[Azure Verified Modules](/IaC/Azure_Verified_Modules.md) \
+[Bicep](/IaC/Bicep.md) \
+[Hashicorp Terraform](/IaC/Hashicorp_Terraform.md)
+
+## Monitoring
+[Prometheus](/Monitoring/Prometheus.md)
+
+## Network
+[SD-WAN](/Network/SDWAN.md) \
+[Terraform](/Network/Terraform.md)
 
 ## Security
 [Container Security](/Security/Container_Security.md) \
@@ -70,18 +83,8 @@ Combined resources and options to improve yourself around cloud and devops
 [Vulnerabilities](/Security/Vulnerabilities.md) \
 [Threat Modeling](/Security/Threat_Modeling.md)
 
-## Network
-[SD-WAN](/Network/SDWAN.md) \
-[Terraform](/Network/Terraform.md)
-
-## AI
-[AI](/AI/AI.md)
-
 ## Solution Architecture
 [Solution Architecture](/SolutionArchitecture/SolutionArchitecture.md)
-
-## FinOps
-[FinOps](/FinOps.md)
 
 ## Tools
 [Diagrams](/Diagrams.md)

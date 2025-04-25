@@ -34,6 +34,9 @@ Remote sandbox environments for learning and experimenting without worrying abou
 https://github.com/MichaelCade/90DaysOfDevOps \
 This repository started as a way to document my journey on getting a better foundational knowledge of "DevOps". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days!
 
+## DevOps Playground
+https://github.com/bregman-arie/devops-exercises
+
 ## Google SRE Books
 https://sre.google/books/
 
