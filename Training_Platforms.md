@@ -23,3 +23,7 @@ https://www.udemy.com/
 ## Microsoft Exam Sandbox
 https://learn.microsoft.com/en-us/credentials/certifications/prepare-exam#explore-the-exam-sandbox \
 You can demo the exam experience by visiting our “exam sandbox.” Here you can experience the look and feel of the exam before taking it
+
+## CloudLee
+https://learn.cloudlee.io/l/products \
+Azure focus
